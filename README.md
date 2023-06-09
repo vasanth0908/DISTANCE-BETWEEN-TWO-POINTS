@@ -28,4 +28,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
-The output of DISTANCE-BETWEEN-TWO-POINTS as executed successfully.
+The output of the distance two 2 points as executed successfully.
